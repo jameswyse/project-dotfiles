@@ -1,6 +1,19 @@
 {
-  "name": "package-dotfiles",
-  "version": "0.4.0",
+  "name": "project-dotfiles",
+  "description": "The usual suspects",
+  "version": "0.0.1",
+  "author": {
+    "name": "James Wyse",
+    "email": "james@jameswyse.net"
+  },
+  "homepage": "https://github.com/jameswyse/project-dotfiles",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameswyse/project-dotfiles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jameswyse/project-dotfiles/issues"
+  },
   "dependencies": {
     "package-dotfiles-installer": "^0.2.0"
   },

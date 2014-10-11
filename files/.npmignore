@@ -1,10 +1,15 @@
 .DS_Store
+.jshint*
+.jscsrc*
+.editorconfig
+README*
 
 *.log
 *.out
 *.pid
 *.sublime-*
 
+.git
 node_modules
 lib-cov
 tmp
