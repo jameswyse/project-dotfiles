@@ -1,7 +1,9 @@
-# project-dotfiles
-*Forked from [colingourlay/package-dotfiles](https://github.com/colingourlay/package-dotfiles)*
+# Project Dotfiles
 
 Keep dotfiles consistent across your projects by making them an installable/updatable package.
+*Forked from [colingourlay/package-dotfiles](https://github.com/colingourlay/package-dotfiles)*
+
+[![NPM](https://nodei.co/npm/project-dotfiles.png)](https://nodei.co/npm/project-dotfiles/)
 
 ## Usage guide
 
