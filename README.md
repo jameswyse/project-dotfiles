@@ -1,6 +1,7 @@
-# Project Dotfiles
+# Project Dotfiles [![npm](http://img.shields.io/npm/v/project-dotfiles.svg)](http://npmjs.org/package/project-dotfiles) [![npm](http://img.shields.io/david/jameswyse/project-dotfiles.svg)](http://npmjs.org/package/project-dotfiles)
 
 Keep dotfiles consistent across your projects by making them an installable/updatable package.
+
 *Forked from [colingourlay/package-dotfiles](https://github.com/colingourlay/package-dotfiles)*
 
 [![NPM](https://nodei.co/npm/project-dotfiles.png)](https://nodei.co/npm/project-dotfiles/)
